@@ -1,12 +1,17 @@
 # Démineur - Mine Sweeper
 
 A mineweeper game in JavaFx with MVC model
+
 Project for Polytech Lyon
+
 Developped with Yoan LAFAYE DE MICHEAUX
 
 ## Set up
+------------
+
 
 ## How to play
+---------------
 (from Microsoft website)
 
 ### Rules 
@@ -23,6 +28,7 @@ The rules in Minesweeper are simple:
     Use left clic to discover a tile
 
 ## Special features
+---------------------
 
     Graphical interface (Java FX)
     Three differents levels of difficulty : 
@@ -31,12 +37,14 @@ The rules in Minesweeper are simple:
         Hard : 25x25 (100 bombs)
 
 ## Soon
+----------
 
     Add differents personalizable levels of difficulty
     Add differents shape for tiles with different board shape (tal : JavaFX Node Api)
     Add different themes
     
 ## Others
+------------
 
 Contact me for any questions !
 
