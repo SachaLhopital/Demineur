@@ -40,9 +40,9 @@ The rules in Minesweeper are simple:
 * Timer
 * Best Score
 * Three differents levels of difficulty : 
-        * Easy : 5x5 (5 bombs)
-        * Medium : 15x15 (40 bombs)
-        * Hard : 25x25 (100 bombs)
+                    * Easy : 5x5 (5 bombs)
+                    * Medium : 15x15 (40 bombs)
+                    * Hard : 25x25 (100 bombs)
 
 ## Soon
 ----------
